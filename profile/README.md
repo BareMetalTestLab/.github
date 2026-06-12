@@ -19,4 +19,5 @@ To make automated testing and CI/CD for embedded and firmware projects accessibl
 - [ansible-collection-baremetal](https://github.com/BareMetalTestLab/ansible-collection-baremetal) - Collection for automating baremetal tasks.
 - [bmlab-flash-toolkit](https://github.com/BareMetalTestLab/bmlab-flash-toolkit) - Python lib for flashing and testing embedded devices.
 - [bm-vscode-configs](https://github.com/BareMetalTestLab/bm-vscode-configs) - Template for baremetal embedded projects, optimized for development and debugging in Visual Studio Code.
-- [blackmagic-esp32-c5](https://github.com/BareMetalTestLab/blackmagic-esp32-c5) - Remote debugger from BlackMagic on ESP32-C5
+- [blackmagic-esp32-c5](https://github.com/BareMetalTestLab/blackmagic-esp32-c5) - Remote debugger from BlackMagic on ESP32-C5 `firmware`
+- [blackmagic-esp32-c5-hardware](https://github.com/BareMetalTestLab/blackmagic-esp32-c5-hardware.git) - Remote debugger from BlackMagic on ESP32-C5 `device`
